@@ -12,8 +12,13 @@ A Bash script that calculates simple interest based on user inputs:
 ## Formula
 Simple Interest = (Principal × Rate × Time) / 100
 
+bug-fix-typo
+_© 2022 XYZ, Inc._
+fixing a typo
+another fix
 ## Usage
 Run the script:
 ```bash
 bash simple-interest.sh
 ```
+main
